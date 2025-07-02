@@ -36,8 +36,6 @@ Designed for **teams, individuals, and growing businesses**, SmartFlow simplifie
 
 ---
 
-## 📸 Screenshots
-
 
 ---
 
@@ -66,7 +64,7 @@ Want a **live demo**, **custom version**, or **automation collab**?
 
 - 👤 Aditya Kumar  
 - 📧 aditya.misofficerwep@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/aditya-kumar-681)
+- 🌐 aditya-kumar-6810bb166
 
 ---
 
