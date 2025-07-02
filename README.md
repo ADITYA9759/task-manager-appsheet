@@ -16,6 +16,16 @@ Designed for **teams, individuals, and growing businesses**, SmartFlow simplifie
 ✅ Daily Email Reminders for Tasks Due Today  
 ✅ Smart Dashboard with:
 
+## 📸 Screenshots
+
+> 🖥️ Dashboard View  
+![Dashboard](screenshots/dashboard.png)
+
+> ✅ Task List  
+![Task List](screenshots/task_list.png)
+
+
+
 - 📌 Active Projects Overview  
 - 🧑‍🤝‍🧑 Team Performance Analytics  
 - 🕐 Pending Task Tracker  
