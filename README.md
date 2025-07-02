@@ -64,8 +64,7 @@ Want a **live demo**, **custom version**, or **automation collab**?
 
 - 👤 Aditya Kumar  
 - 📧 aditya.misofficerwep@gmail.com  
-- 🌐 aditya-kumar-6810bb166
-
+- 🌐www.linkedin.com/in/aditya-kumar-6810bb166
 ---
 
 > ✨ *"Work smart, flow better — SmartFlow makes productivity seamless."*
