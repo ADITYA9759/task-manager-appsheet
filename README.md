@@ -1,55 +1,76 @@
-# ✅ Task Manager App (Built with AppSheet)
+# 🚀 SmartFlow Project Manager | All-in-One Task & Project Tracking App
 
-A user-friendly task management solution built using **Google AppSheet**, designed for personal productivity, team collaboration, and automated reminders.
+Welcome to **SmartFlow** — a fully automated, professional-grade **Project & Task Management App** built with **Google Sheets + AppSheet + Apps Script**.
 
----
-
-## 📲 Features
-
-- 📝 Create, assign, and track tasks  
-- ⏰ Automated email & push reminders  
-- 📅 Due-date based filters and views  
-- 🔄 Real-time updates across users  
-- 📊 Dashboard for progress tracking  
-- 🔐 Secure login with user-specific views  
+Designed for **teams, individuals, and growing businesses**, SmartFlow simplifies how you manage members, projects, and deadlines — all from one sleek platform.
 
 ---
 
-## 📂 Project Files
+## 🎯 Key Features
 
-- `Data_Structure.xlsx` – AppSheet-connected backend data table  
-- `App_Overview.md` – Key app components and structure  
-- `App_Workflow_Design.md` – Logic & automation workflow  
-- `Screenshots/` – UI snapshots from mobile and web
+✅ Add New Members & Assign Projects  
+✅ Create Unlimited Projects & Link Tasks Seamlessly  
+✅ Real-time Task Status Updates  
+✅ Auto-Calculate Project Completion % based on Task Progress  
+✅ Automatically Mark Overdue Tasks (via Deadline Logic)  
+✅ Daily Email Reminders for Tasks Due Today  
+✅ Smart Dashboard with:
+
+- 📌 Active Projects Overview  
+- 🧑‍🤝‍🧑 Team Performance Analytics  
+- 🕐 Pending Task Tracker  
+- 📈 Weekly & Monthly Progress Graphs  
+- ✅ Project Completion Percentage  
+
+✅ Clean, Responsive UI (Web + Mobile)  
+✅ Transparent Google Sheets Backend  
+✅ Google Apps Script for smart automation
 
 ---
 
-## 🧠 Learning Outcomes
+## 🧱 Built With
 
-- Google Sheets to AppSheet integration  
-- UX Design using AppSheet views  
-- Workflow automation (reminders, actions)  
-- Role-based data filtering  
-- Deployment and sharing best practices
+- **AppSheet** – No-code UI with mobile/web compatibility  
+- **Google Sheets** – Live backend with data control  
+- **Apps Script** – Email automation, reminders, and logic
 
 ---
 
 ## 📸 Screenshots
 
-> Dashboard View  
-![Dashboard](screenshots/dashboard.png)
-
-> Task List View  
-![Task List](screenshots/task_list.png)
 
 ---
 
-## 🙋‍♂️ Author
+## 💡 Why SmartFlow?
 
-**Aditya Kumar**  
-📧 aditya.misofficerwep@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/aditya-kumar-681)
+Managing multiple projects, deadlines, and teams can get messy real quick.  
+**SmartFlow** keeps everything **automated, synced, and visible** — so your team can focus on work, not chasing tasks.
+
+Whether you're solo-hustling or leading a team of 50 — this tool keeps you organized, accountable, and ahead of deadlines.
 
 ---
 
-> ✨ *"Your tasks don’t manage themselves — but your app can."*
+## 🚀 How to Use
+
+1. Make a copy of the Google Sheet backend (coming soon)  
+2. Import to AppSheet  
+3. Configure member access & sharing  
+4. Use it on Web or Mobile  
+5. Modify Apps Script for email timing if needed
+
+---
+
+## 📬 Contact
+
+Want a **live demo**, **custom version**, or **automation collab**?
+
+- 👤 Aditya Kumar  
+- 📧 aditya.misofficerwep@gmail.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/aditya-kumar-681)
+
+---
+
+> ✨ *"Work smart, flow better — SmartFlow makes productivity seamless."*
+
+
+
