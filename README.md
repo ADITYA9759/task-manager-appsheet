@@ -19,14 +19,22 @@ Designed for **teams, individuals, and growing businesses**, SmartFlow simplifie
 ## 📸 Screenshots
 
 > 🖥️ Dashboard View  
+
 ![Dashboard]![Image]![Image](https://github.com/user-attachments/assets/ac9b1ada-c1b9-44cc-9421-2b59a82cd456)[](url)
+
 >![Image](https://github.com/user-attachments/assets/364c5166-722a-4a99-9c36-baefc483c766)[](url)
+
 >![Image](https://github.com/user-attachments/assets/364c5166-722a-4a99-9c36-baefc483c766)[](url))
+
 > ✅ Task List  
+
 ![Task List]![Image](https://github.com/user-attachments/assets/7465fbcc-4205-4ea1-96e3-5d07e9f6ce82)[](url)
+
 ![Task List]![Image](https://github.com/user-attachments/assets/3d29eae7-afe4-451f-bbb4-26a3ff2d1ed3)[](url)
+
 ![Task List]![Image](https://github.com/user-attachments/assets/263ad28b-e5b8-4296-83ea-6eb9f4f7449c)[](url))
 
+![Task List]![Image](https://github.com/user-attachments/assets/90bc1b30-0e4e-45f1-8483-441ec85fbcde)[](url))
 
 - 📌 Active Projects Overview  
 - 🧑‍🤝‍🧑 Team Performance Analytics  
