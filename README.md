@@ -25,6 +25,7 @@ Designed for **teams, individuals, and growing businesses**, SmartFlow simplifie
 > ✅ Task List  
 ![Task List]![Image](https://github.com/user-attachments/assets/7465fbcc-4205-4ea1-96e3-5d07e9f6ce82)[](url)
 ![Task List]![Image](https://github.com/user-attachments/assets/3d29eae7-afe4-451f-bbb4-26a3ff2d1ed3)[](url)
+![Task List]![Image](https://github.com/user-attachments/assets/263ad28b-e5b8-4296-83ea-6eb9f4f7449c)[](url))
 
 
 - 📌 Active Projects Overview  
