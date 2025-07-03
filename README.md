@@ -19,7 +19,7 @@ Designed for **teams, individuals, and growing businesses**, SmartFlow simplifie
 ## 📸 Screenshots
 
 > 🖥️ Dashboard View  
-![Dashboard]![Image]
+![Dashboard]![Image]![Image](https://github.com/user-attachments/assets/ac9b1ada-c1b9-44cc-9421-2b59a82cd456)[](url)
 >![Image](https://github.com/user-attachments/assets/364c5166-722a-4a99-9c36-baefc483c766)[](url)
 >![Image](https://github.com/user-attachments/assets/364c5166-722a-4a99-9c36-baefc483c766)[](url))
 > ✅ Task List  
